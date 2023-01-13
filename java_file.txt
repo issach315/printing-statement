@@ -17,6 +17,9 @@ class ClassName
         // printing statement
 
         System.out.println(" data ");
+        
+        
+       // " the execution process will starts from main method jvm will extecute line by line"
 
     }
 
