@@ -1,0 +1,23 @@
+class ClassName
+{
+    public static void main(String [] args)
+    {
+        --------------------
+        --------------------
+        -----Operations-----
+        --------------------
+        --------------------
+        this multiline comment /* 
+                                    inside main method only we can perform operations
+                               */
+
+
+        // single line comment 
+
+        // printing statement
+
+        System.out.println(" data ");
+
+    }
+
+}
